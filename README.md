@@ -16,4 +16,4 @@ With [npm](https://npmjs.org/) installed, run
 
 run
 
-    $ node app.py {prefix_number}
+    $ node app.js {prefix_number}
